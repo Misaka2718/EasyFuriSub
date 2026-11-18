@@ -55,7 +55,7 @@
 
 ### 使用 exe（推荐）
 
-下载并运行 `gui_subtitle2vtt.exe`：
+从Release下载并运行 [gui_subtitle2vtt.exe](https://github.com/Misaka2718/EasyFuriSub/releases/tag/v1.0.0.0)：
 
 1. 选择处理模式：批量处理（文件夹）/ 单个文件
 2. 选择输入路径（文件夹或字幕文件）和输出文件夹
@@ -105,7 +105,7 @@ pyinstaller subtitle2vtt/gui_subtitle2vtt.spec --noconfirm
 
 | 路径 | 说明 |
 | --- | --- |
-| `subtitle2vtt/` | 主程序：GUI 源码（gui_subtitle2vtt.py）、打包配置（.spec）、成品 exe |
+| `subtitle2vtt/` | 主程序：GUI 源码（gui_subtitle2vtt.py）、打包配置（.spec） |
 | `example/` | 示例字幕：example.srt / example.ass 输入与 example.vtt 转换效果 |
 | `image-*.png` | README 截图 |
 
