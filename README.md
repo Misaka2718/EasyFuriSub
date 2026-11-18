@@ -8,6 +8,7 @@
 
 转换后字幕:
 <p align="center"><img src="./images/image-7.png" alt="转换后" width="60%"></p>
+
 - 字幕来源 :[Jimaku](https://jimaku.cc/),
 - 视频: [名侦探柯南：第110话 窃盗集团别墅事件（上集）](https://www.bilibili.com/bangumi/play/ep321917/?share_source=copy_web)
 ## 字幕示例
