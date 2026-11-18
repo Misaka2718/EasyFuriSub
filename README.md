@@ -4,10 +4,10 @@
 
 ## 图片示例 
 原字幕：
-![转换前](./images/image-8.png)
+<img src="./images/image-8.png" alt="转换前" width="60%">
 
 转换后字幕:
-![转换后](./images/image-7.png)
+<img src="./images/image-7.png" alt="转换后" width="60%">
 - 字幕来源 :[Jimaku](https://jimaku.cc/),
 - 视频: [名侦探柯南：第110话 窃盗集团别墅事件（上集）](https://www.bilibili.com/bangumi/play/ep321917/?share_source=copy_web)
 ## 字幕示例
@@ -85,11 +85,11 @@ Subtitle HTML选项要开启 `Render`（渲染），否则 ruby 标签会以纯�
 
 设置参考截图：
 
-![asbplayer 设置参考 1](./images/image-3.png)
+<img src="./images/image-3.png" alt="asbplayer 设置参考 1" width="60%">
 
-![asbplayer 设置参考 2](./images/image-4.png)
+<img src="./images/image-4.png" alt="asbplayer 设置参考 2" width="60%">
 
-![asbplayer 设置参考 3](./images/image-5.png)
+<img src="./images/image-5.png" alt="asbplayer 设置参考 3" width="60%">
 
 ## 开发与打包
 
