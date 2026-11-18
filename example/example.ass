@@ -1,0 +1,14 @@
+[Script Info]
+; 示例字幕 —— 演示 ASS 输入（特效标签 {\i1} 在转换时会被剥离，Comment 行会被跳过）
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,注释行会被跳过
+Dialogue: 0,0:02:11.13,0:02:15.18,Default,,0,0,0,,{\i1}“そこに越した矢先に\N不思議な出来事が毎日 続き—”
